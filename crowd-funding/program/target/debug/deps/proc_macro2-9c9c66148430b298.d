@@ -1,0 +1,10 @@
+/Users/immanueljohn/learn/solana/solana-crowdfunding/crowd-funding/program/target/debug/deps/proc_macro2-9c9c66148430b298.rmeta: /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/lib.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/strnom.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/fallback.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/wrapper.rs
+
+/Users/immanueljohn/learn/solana/solana-crowdfunding/crowd-funding/program/target/debug/deps/libproc_macro2-9c9c66148430b298.rlib: /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/lib.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/strnom.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/fallback.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/wrapper.rs
+
+/Users/immanueljohn/learn/solana/solana-crowdfunding/crowd-funding/program/target/debug/deps/proc_macro2-9c9c66148430b298.d: /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/lib.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/strnom.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/fallback.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/wrapper.rs
+
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/lib.rs:
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/strnom.rs:
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/fallback.rs:
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/wrapper.rs:

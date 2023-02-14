@@ -1,0 +1,10 @@
+/Users/immanueljohn/learn/solana/solana-crowdfunding/crowd-funding/program/target/debug/deps/spl_token-47c0ea7956262be4.rmeta: /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/lib.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/error.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/instruction.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/native_mint.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/processor.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/state.rs
+
+/Users/immanueljohn/learn/solana/solana-crowdfunding/crowd-funding/program/target/debug/deps/spl_token-47c0ea7956262be4.d: /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/lib.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/error.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/instruction.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/native_mint.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/processor.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/state.rs
+
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/lib.rs:
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/error.rs:
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/instruction.rs:
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/native_mint.rs:
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/processor.rs:
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.5.0/src/state.rs:

@@ -1,0 +1,11 @@
+/Users/immanueljohn/learn/solana/solana-crowdfunding/crowd-funding/program/target/debug/deps/console-e8c3745454c97965.rmeta: /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs
+
+/Users/immanueljohn/learn/solana/solana-crowdfunding/crowd-funding/program/target/debug/deps/console-e8c3745454c97965.d: /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs /Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs
+
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs:
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs:
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs:
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs:
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs:
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs:
+/Users/immanueljohn/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs:

@@ -1,0 +1,1 @@
+/Users/immanueljohn/learn/solana/solana-crowdfunding/crowd-funding/program/target/bpfel-unknown-unknown/release/program.so: /Users/immanueljohn/learn/solana/solana-crowdfunding/crowd-funding/program/src/lib.rs
